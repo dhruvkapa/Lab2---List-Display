@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.List;
 import android.content.Context;
 import androidx.core.content.ContextCompat;
+import android.content.Intent;
 
 //The Adapter connects the data (List<Recipe> to the RecyclerView UI
 
@@ -43,7 +44,6 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.VH> {
         return new VH(v);
     }
 
-    // Binds data for position 'position' into a given row (sets text, etc.)
     @Override
     public void onBindViewHolder(@NonNull VH holder, int position) {
         Recipe r = items.get(position);
@@ -57,11 +57,9 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.VH> {
         // BRIGHT COLORS BY COUNTRY
         Context ctx = holder.itemView.getContext();
 
-        // Defaults if nothing matches
         int titleColor = ContextCompat.getColor(ctx, R.color.titleText);
-        int bgColor    = 0xFFFFFFFF; // white
+        int bgColor    = 0xFFFFFFFF; // default white
 
-        // We stored origin as a prefix in description: "Ghana - ...", "India - ...", "Bangladesh - ..."
         String desc = r.description == null ? "" : r.description;
 
         if (desc.startsWith("Ghana")) {
@@ -77,7 +75,19 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.VH> {
 
         holder.title.setTextColor(titleColor);
         holder.itemView.setBackgroundColor(bgColor);
+
+        // -----------------------------
+        // Task 4: Click listener for DetailActivity
+        // -----------------------------
+        holder.itemView.setOnClickListener(v -> {
+            Intent intent = new Intent(ctx, DetailActivity.class);
+            intent.putExtra("title", r.title);
+            intent.putExtra("imageResId", r.imageResId);
+            intent.putExtra("description", r.description);
+            ctx.startActivity(intent);
+        });
     }
+
 
     // Tells RecyclerView how many rows to render (should be 15 here)
     @Override
