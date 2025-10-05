@@ -47,38 +47,38 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.VH> {
     @Override
     public void onBindViewHolder(@NonNull VH holder, int position) {
         Recipe r = items.get(position);
-        holder.title.setText(r.title);
-        holder.tvSummary.setText(r.description);
 
-        // thumbnail (fallback if any imageResId is 0)
+        // --- TITLE (Task 7: handle null/empty) ---
+        holder.title.setText(r.title != null && !r.title.isEmpty() ? r.title : "No title available");
+
+        // --- DESCRIPTION (Task 7: handle null/empty) ---
+        holder.tvSummary.setText(r.description != null && !r.description.isEmpty() ? r.description : "No description available");
+
+        // --- THUMBNAIL IMAGE (Task 7: fallback if missing) ---
         int img = (r.imageResId != 0) ? r.imageResId : android.R.drawable.ic_menu_report_image;
         holder.Thumbnail.setImageResource(img);
 
-        // BRIGHT COLORS BY COUNTRY
+        // --- BRIGHT COLORS BY COUNTRY ---
         Context ctx = holder.itemView.getContext();
-
         int titleColor = ContextCompat.getColor(ctx, R.color.titleText);
-        int bgColor    = 0xFFFFFFFF; // default white
-
+        int bgColor = 0xFFFFFFFF; // default white
         String desc = r.description == null ? "" : r.description;
 
         if (desc.startsWith("Ghana")) {
             titleColor = ContextCompat.getColor(ctx, R.color.accentGhana);
-            bgColor    = ContextCompat.getColor(ctx, R.color.bgGhana);
+            bgColor = ContextCompat.getColor(ctx, R.color.bgGhana);
         } else if (desc.startsWith("India")) {
             titleColor = ContextCompat.getColor(ctx, R.color.accentIndia);
-            bgColor    = ContextCompat.getColor(ctx, R.color.bgIndia);
+            bgColor = ContextCompat.getColor(ctx, R.color.bgIndia);
         } else if (desc.startsWith("Bangladesh")) {
             titleColor = ContextCompat.getColor(ctx, R.color.accentBangladesh);
-            bgColor    = ContextCompat.getColor(ctx, R.color.bgBangladesh);
+            bgColor = ContextCompat.getColor(ctx, R.color.bgBangladesh);
         }
 
         holder.title.setTextColor(titleColor);
         holder.itemView.setBackgroundColor(bgColor);
 
-        // -----------------------------
-        // Task 4: Click listener for DetailActivity
-        // -----------------------------
+        // --- CLICK LISTENER TO DETAILACTIVITY ---
         holder.itemView.setOnClickListener(v -> {
             Intent intent = new Intent(ctx, DetailActivity.class);
             intent.putExtra("title", r.title);
@@ -87,6 +87,7 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.VH> {
             ctx.startActivity(intent);
         });
     }
+
 
 
     // Tells RecyclerView how many rows to render (should be 15 here)
