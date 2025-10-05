@@ -26,21 +26,23 @@ public class DetailActivity extends AppCompatActivity {
         int imageResId = getIntent().getIntExtra("imageResId", 0); // fallback = 0
         String description = getIntent().getStringExtra("description");
 
-        // Set title with fallback
+        // --- Task 7: Error handling for null or missing data ---
+
+        // Title fallback
         if (title != null && !title.isEmpty()) {
             detailTitle.setText(title);
         } else {
             detailTitle.setText("No title provided");
         }
 
-        // Set image with fallback
+        // Image fallback
         if (imageResId != 0) {
             detailImage.setImageResource(imageResId);
         } else {
             detailImage.setImageResource(android.R.drawable.ic_menu_report_image);
         }
 
-        // Set description with fallback
+        // Description fallback
         if (description != null && !description.isEmpty()) {
             detailDescription.setText(description);
         } else {
