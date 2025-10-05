@@ -32,7 +32,10 @@ public class Recipe {
                 new Recipe("Morog Polao", R.drawable.morog_polao, "Bangladesh - Aromatic chicken pilaf with milk & ghee"),
                 new Recipe("Shorshe Ilish", R.drawable.shorshe_ilish, "Bangladesh - Hilsa fish in mustard gravy"),
                 new Recipe("Bhuna Khichuri", R.drawable.bhuna_khichuri, "Bangladesh - Spiced rice–lentil one-pot"),
-                new Recipe("Begun Bhorta", R.drawable.begun_bhorta, "Bangladesh - Smoky mashed eggplant, mustard oil & chilies")
+                new Recipe("Begun Bhorta", R.drawable.begun_bhorta, "Bangladesh - Smoky mashed eggplant, mustard oil & chilies"),
+                new Recipe(null, 0, null),
+                new Recipe(null, 0, null)
+
         );
     }
 }
