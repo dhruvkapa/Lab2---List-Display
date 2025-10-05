@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- neutrals (keep) -->
+    <color name="titleText">#111827</color>
+    <color name="summaryText">#4B5563</color>
+
+    <!-- BRIGHT accents by country -->
+    <color name="accentGhana">#FF7043</color>       <!-- deep orange -->
+    <color name="accentIndia">#3949AB</color>       <!-- indigo -->
+    <color name="accentBangladesh">#2E7D32</color>  <!-- green -->
+
+    <!-- light tinted row backgrounds -->
+    <color name="bgGhana">#FFF3E0</color>       <!-- light orange tint -->
+    <color name="bgIndia">#E8EAF6</color>       <!-- light indigo tint -->
+    <color name="bgBangladesh">#E8F5E9</color>  <!-- light green tint -->
+</resources>
