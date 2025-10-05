@@ -27,6 +27,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.ListDisplay" >
+        <activity android:name="com.example.listdisplay.DetailActivity" />
         <activity
             android:name="com.example.listdisplay.MainActivity"
             android:exported="true" >

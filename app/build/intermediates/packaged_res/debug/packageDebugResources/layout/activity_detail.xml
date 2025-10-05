@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <!-- Recipe Title -->   
+        <!-- Recipe Title -->
         <TextView
             android:id="@+id/detailTitle"
             android:layout_width="wrap_content"

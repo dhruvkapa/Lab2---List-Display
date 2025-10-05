@@ -1,138 +1,142 @@
 [
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_paneer_tikka.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/paneer_tikka.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_kelewele.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/kelewele.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_bhuna_khichuri.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/bhuna_khichuri.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_shorshe_ilish.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/shorshe_ilish.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/layout_activity_detail.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/layout/activity_detail.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_chicken_biryani.jpg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/chicken_biryani.jpg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_kelewele.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/kelewele.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/layout_item_recipe.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/layout/item_recipe.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.listdisplay.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_chicken_biryani.jpg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/chicken_biryani.jpg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_shorshe_ilish.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/shorshe_ilish.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_masala_dosa.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/masala_dosa.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_bhuna_khichuri.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/bhuna_khichuri.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/xml_backup_rules.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/xml/backup_rules.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_morog_polao.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/morog_polao.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_chole_bhature.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/chole_bhature.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/layout_activity_main.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/layout/activity_main.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_chole_bhature.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/chole_bhature.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_red_red.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/red_red.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_red_red.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/red_red.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/layout_item_recipe.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/layout/item_recipe.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_banku_tilapia.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/banku_tilapia.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_jollof.jpg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/jollof.jpg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_waakye.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/waakye.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_begun_bhorta.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/begun_bhorta.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_banku_tilapia.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/banku_tilapia.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_morog_polao.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/morog_polao.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_paneer_tikka.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/paneer_tikka.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_waakye.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/waakye.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_masala_dosa.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/masala_dosa.jpeg"
     },
     {
         "merged": "com.example.listdisplay.app-debug-32:/layout_activity_detail.xml.flat",
         "source": "com.example.listdisplay.app-main-34:/layout/activity_detail.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_jollof.jpg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/jollof.jpg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_butter_chicken.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/butter_chicken.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_begun_bhorta.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/begun_bhorta.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_butter_chicken.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/butter_chicken.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_kacchi_biryani.jpeg.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/kacchi_biryani.jpeg"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/drawable/ic_launcher_background.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/drawable_kacchi_biryani.jpeg.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/drawable/kacchi_biryani.jpeg"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/xml/data_extraction_rules.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.listdisplay.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.listdisplay.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/dhruv-kapadia/.gradle/daemon/8.13/com.example.listdisplay.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
     }
 ]
