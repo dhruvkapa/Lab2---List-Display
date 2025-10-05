@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListDisplay</string>
+    <string name="recipe_image">Recipe image</string>
+</resources>
